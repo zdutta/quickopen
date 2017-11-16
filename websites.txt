@@ -1,7 +1,0 @@
-http://www.google.com
-http://www.gmail.com
-http://www.youtube.com
-http://www.facbeook.com
-http://www.twitter.com
-http://www.yahoo.com
-http://www.instagram.com
